@@ -1,0 +1,82 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "SmileCLoud",
+    "line": 1,
+    "id": "smilecloud",
+    "tags": [],
+    "uri": "1_createNewCase.feature",
+    "elements": [
+      {
+        "id": "smilecloud;i-create-new-case",
+        "keyword": "Scenario",
+        "line": 2,
+        "name": "I create new case",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 3,
+            "name": "I login",
+            "result": {
+              "status": "passed",
+              "duration": 6061000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 4,
+            "name": "I create new cad new case",
+            "result": {
+              "status": "passed",
+              "duration": 1689000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "I upload documents",
+            "result": {
+              "status": "passed",
+              "duration": 16017000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "I create new design project",
+            "result": {
+              "status": "passed",
+              "duration": 14231000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "I checkout functional design",
+            "result": {
+              "status": "passed",
+              "duration": 60934000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "I pay for functional design",
+            "result": {
+              "status": "passed",
+              "duration": 25109000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
